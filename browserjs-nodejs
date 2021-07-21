@@ -1,0 +1,17 @@
+browser js
+
+javascript can only be run in the browser.
+It is basically used on the client side
+We can add html tags
+javascript can run in any browser engine 
+It is used in front end developement
+
+
+
+node js
+
+node js can be run out of the browser.
+It is mostly used on the server side.
+We cant add html tags.
+node js can run only with v8 engine of google chrome
+It is used in back end developement
