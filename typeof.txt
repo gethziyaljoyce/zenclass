@@ -1,0 +1,36 @@
+typeof(1)
+
+	It gives the output as Number.. the datatype of 1 is number.
+
+typeof(1.1)
+
+	It also returns the output as number..the datatype of 1.1 is number.
+
+typeof('1.1')
+
+	The datatype of '1.1' is string.
+
+typeof(true)
+
+	The datatype of true is boolean.
+
+typeof(null)
+
+	The datatype of null is object.
+
+typeof(undefined)
+
+	It returns undefined.
+
+typeof([])
+
+	Array is an object.
+
+typeof({})
+
+	It is an object.
+
+typeof(NaN)
+
+	The datatypeof NaN is number.
+
