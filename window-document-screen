@@ -1,0 +1,14 @@
+Window,document and screen are three different javascript objects.They are different but related.
+Window
+    It is top level thing.Parent object.
+    It has bunch of properties includes screen and document.
+Document
+    It is constructed after the window.It represents the content on the page usually we see..
+    It could be any markup language..usually HTML events.
+    It contains URL.
+    We have the body and methods and scripts inside the body.
+    It is part of the window.
+Screen
+    It is also a part of window.
+    It contains the information about the browser window like height,width and color depth
+    
