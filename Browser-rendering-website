@@ -1,0 +1,5 @@
+1. Html code will be parsing..
+2. parsed html is converted into DOM tree.
+3.It becomes render tree and multiple trees will be added like layers,line boxs,render objects and render styles.
+4.The layout computes where the elements will appear.
+5. Taking into account all the CSS and painting will produce.And the layer will produce the visual output
